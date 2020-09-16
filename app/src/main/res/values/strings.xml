@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pipeline</string>
+    <string name="title_home">Pipeline 1</string>
+    <string name="title_dashboard">Pipeline 2</string>
+    <string name="title_notifications">Pipeline 3</string>
+    <string name="pipeline_description">Pipeline</string>
+</resources>
